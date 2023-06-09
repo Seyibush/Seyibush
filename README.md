@@ -7,9 +7,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oluwaseyi-bushura-243a11263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oluwaseyi Bushura" height="30" width="40" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
+<a href="href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="scikit_learn" width="40" height="40"/>
+</a> 
+</a> 
+<a href="href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png" alt="scikit_learn" width="40" height="40"/>
+</a> 
+</a> 
+<a href="href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="scikit_learn" width="40" height="40"/>
+</a>
 </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
